@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kt7711
-- 👀 I’m interested in Web3/ Blockchain tech
+- 👀 I’m interested in Distributed systems
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on Anything I find Intriguing
-- 📫 How to reach me
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me > twitter @kmtam01
 
 <!---
 kt7711/kt7711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
