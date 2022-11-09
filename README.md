@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kt7711
 - 👀 I’m interested in Distributed systems
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me > twitter @kmtam01
 
 <!---
